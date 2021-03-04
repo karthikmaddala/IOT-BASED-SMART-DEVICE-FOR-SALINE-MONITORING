@@ -14,7 +14,8 @@ This arduino based code for alerting staff based on the level of saline.
                             *weight of bottle after some water dripped*
 
 ![image](https://user-images.githubusercontent.com/63143658/109984504-da07af80-7d29-11eb-81f5-b403aacdbaee.png)
-                                   *Threshold Reached Signal*
+                                      
+                                      *Threshold Reached Signal*
 
 
 ![image](https://user-images.githubusercontent.com/63143658/109984528-df64fa00-7d29-11eb-8888-cd7f1bb34ab1.png)
