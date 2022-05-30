@@ -37,7 +37,7 @@ if (i<50){
       lcd.print("threshold reached 50");
        mySerial.println("AT+CMGF=1");    //Sets the GSM Module in Text Mode
      delay(1000);  // Delay of 1 second
-     mySerial.println("AT+CMGS=\"+917981183382\"\r"); // Replace x with mobile number
+     mySerial.println("AT+CMGS=\"+91123456789\"\r"); // Replace x with mobile number
      delay(1000);
      Serial.println("threshold reached");
    //  mySerial.println("threshold reached ");
@@ -60,7 +60,7 @@ if (i<20){
       lcd.print("threshold reached 20");
        mySerial.println("AT+CMGF=1");    //Sets the GSM Module in Text Mode
      delay(1000);  // Delay of 1 second
-     mySerial.println("AT+CMGS=\"+917981183382\"\r"); // Replace x with mobile number
+     mySerial.println("AT+CMGS=\"+91123456789\"\r"); // Replace x with mobile number
      delay(1000);
      Serial.println("threshold reached");
     // mySerial.println("threshold reached ");
@@ -83,7 +83,7 @@ if (i<10){
       lcd.print("threshold reached 10 ");
        mySerial.println("AT+CMGF=1");    //Sets the GSM Module in Text Mode
      delay(1000);  // Delay of 1 second
-     mySerial.println("AT+CMGS=\"+917981183382\"\r"); // Replace x with mobile number
+     mySerial.println("AT+CMGS=\"+91123456789\"\r"); // Replace x with mobile number
      delay(1000);
      Serial.println("threshold reached");
      mySerial.println("threshold reached");
