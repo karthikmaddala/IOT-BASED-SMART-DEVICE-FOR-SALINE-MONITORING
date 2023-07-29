@@ -31,7 +31,7 @@ void loop() {
   if(i>50){
   flag=1;}
   if(flag){
-if (i<50){
+if (i<55){
   if(flag3==1){
       lcd.init();
       lcd.print("threshold reached 50");
